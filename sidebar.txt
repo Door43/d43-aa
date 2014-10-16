@@ -1,0 +1,15 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[aa:home|Door43 (aa)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-aa|d43-aa repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-aa/archive/master.zip|d43-aa.zip]]
+
+**Recent Changes**
+{{changes>ns = aa}}
+
