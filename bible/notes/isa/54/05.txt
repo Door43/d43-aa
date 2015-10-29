@@ -1,0 +1,83 @@
+====== Isaiah 54:5-6 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 5 I, the Almighty Commander of the armies of angels, the Holy one of Israel, who rules over the whole earth,
+\q1 the one who created you,
+\q2 will be like \f + \ft metaphor \f* a husband to you.
+\q1
+\v 6 You were like a woman whose husband left her,
+\q2 and caused you to be very sad;
+\q1 you were like a young woman who
+\q1 got married when she was very young,
+\q2 and then her husband abandoned her.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 5 I, Yahweh, Commander of the angel armies, the Holy one of Israel, who rules over the whole earth,
+\q1 the one who created you,
+\q2 will be like a husband to you.
+\q1
+\v 6 Your nation was like a woman whose husband left her,
+\q2 and caused you to be very sad;
+\q1 you were like a young woman who
+\q1 got married when she was very young,
+\q2 and then her husband abandoned her.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 5 For your Maker is your husband; Yahweh of hosts is his name. 
+\q1 The Holy One of Israel is your Redeemer; the God of the whole earth he is called.
+\q1
+\v 6 For Yahweh has called you back as a wife abandoned and grieved in spirit, 
+\q1 like a woman married young and rejected, says
+your God.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:aa:obe:kt:yahwehofhosts|Yahweh of hosts, God of hosts]]
+  * [[:aa:obe:kt:name|name]]
+  * [[:aa:obe:kt:holyone|Holy One]]
+  * [[:aa:obe:other:israel|Israel, Israelites, nation of Israel]]
+  * [[:aa:obe:kt:redeem|redeem, redemption]]
+  * [[:aa:obe:kt:god|God]]
+  * [[:aa:obe:other:earth|earth]]
+  * [[:aa:obe:kt:call|call, calling]]
+  * [[:aa:obe:kt:yahweh|Yahweh]]
+  * [[:aa:obe:kt:spirit|spirit, spiritual]]
+  * [[:aa:obe:other:reject|reject, push away]]
+
+===== Translation Notes: =====
+
+Yahweh continues speaking to the people of Jerusalem .
+
+  * **For your Maker is your husband…like a woman married young and rejected**  - Yahweh continues describing the people of Jerusalem as a young, abandoned woman. Yahweh says he will be their husband. (See: [[:aa:ta:vol1:translate:figs_metaphor|Metaphor]] and [[:aa:ta:vol1:translate:figs_simile|Simile]])
+  * **Maker**  - See how you translated this in [[:aa:bible:notes:isa:17:06|17:7]].
+  * **Yahweh of Hosts**  - See how you translated this in [[:aa:bible:notes:isa:01:24|1:24]].
+  * **the Holy One of Israel**  - See how you translated this in [[:aa:bible:notes:isa:05:15|5:16]].
+  * **Redeemer**  - See how you translated this in [[:aa:bible:notes:isa:41:14|41:14]].
+  * **the God of the whole earth he is called**  - AT: "he is the God of the whole earth" (See: [[:aa:ta:vol2:translate:figs_activepassive|Active or Passive]])
+  * **and grieved in spirit**  - This means she is emotionally hurt or heartbroken.
+
+===== Links: =====
+
+  * **[[:aa:bible:questions:comprehension:isa:54|Isaiah Chapter 54 Comprehension Questions]]**
+**[[:aa:bible:notes:isa:54:04|<<]] | [[:aa:bible:notes:isa:54:07|>>]]**
+
+~~DISCUSSION~~{{tag>text publish}}
+
+~~NOCACHE~~

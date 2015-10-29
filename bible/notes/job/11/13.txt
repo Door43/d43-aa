@@ -1,0 +1,71 @@
+====== Job 11:13-14 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 13 Job, repent [IDI];
+\q2 reach out your hands toward God.
+\q1
+\v 14 If you have done evil things, stop doing them;
+\q2 and do not allow any people in your house to do wicked deeds.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 13 Job, repent and make your heart humble;
+\q2 reach out your hands toward God and plead with him.
+\q1
+\v 14 If you have done evil things, stop doing them;
+\q2 and do not allow any people in your house to do wicked deeds.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 13 But suppose that you had set your heart right
+\q and had reached out with your hands toward God;
+\q
+\v 14 suppose that iniquity were in your hand, but that then you put it far away from you,
+\q and did not let unrighteousness live in your tents.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:aa:obe:other:heart|heart]]
+  * right
+  * reach
+  * [[:aa:obe:other:hand|hand]]
+  * [[:aa:obe:kt:god|God]]
+  * [[:aa:obe:kt:iniquity|iniquity]]
+  * [[:aa:obe:other:hand|hand]]
+  * [[:aa:obe:kt:unrighteous|unrighteous, unrighteousness]]
+  * [[:aa:obe:kt:life|life, live, living, alive]]
+  * [[:aa:obe:other:tent|tent]]
+
+===== Translation Notes: =====
+
+  * **did not let unrighteousness live in your tent**  - This means "did not permit sin in your household" (See: Personification).
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+
+===== Links: =====
+
+  * **[[:aa:bible:questions:comprehension:job:11|Job Chapter 11 Comprehension Questions]]**
+**[[:aa:bible:notes:job:11:10|<<]] | [[:aa:bible:notes:job:11:15|>>]]**
+
+~~DISCUSSION~~{{tagcheckt}}
+
+~~NOCACHE~~
