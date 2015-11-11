@@ -1,5 +1,0 @@
-====== OBS Key Terms List ======
-
-~~NOCACHE~~
-
-{{pagequery>ns:aa:obe "ktobs"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump; layout=column}}

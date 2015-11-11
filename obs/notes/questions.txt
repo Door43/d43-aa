@@ -1,1 +1,0 @@
-<nspages aa:obs:notes:questions -title -exclude:home -nbCol=3 -textPages="List of all OBS Questions Pages:">
